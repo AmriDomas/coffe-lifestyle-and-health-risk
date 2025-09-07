@@ -40,7 +40,7 @@ The full process is documented in this [Kaggle notebook](https://www.kaggle.com/
 4. **Predictive Modeling**
    - ML models trained to predict sleep quality, stress level, and health risks.
 5. **Deployment**
-   - Streamlit app for interactive predictions: [Coffee Lifestyle & Health Risk App](https://share.streamlit.io/amri11/coffee-lifestyle-and-health-risk/main/app.py)
+   - Streamlit app for interactive predictions: [Coffee Lifestyle & Health Risk App](https://coffe-lifestyle-and-health-risk-f.streamlit.app/)
 
 ---
 
@@ -75,6 +75,6 @@ The full process is documented in this [Kaggle notebook](https://www.kaggle.com/
 
 [Kaggle Notebook](https://www.kaggle.com/code/amri11/coffee-lifestyle-and-health-risk-modeling)
 
-Streamlit App
+[Streamlit App](https://coffe-lifestyle-and-health-risk-f.streamlit.app/)
 
 [linkedin](https://www.linkedin.com/in/muh-amri-sidiq/)
